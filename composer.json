@@ -16,7 +16,7 @@
         "zendframework/zend-console":           "*",
         "zendframework/zend-modulemanager":     "*",
         "doctrine/doctrine-orm-module":         "~0.7",
-        "doctrine/doctrine-module":             "~0.7",
+        "doctrine/doctrine-module":             "~1.0",
         "doctrine/cache":                       "~1.0"
     },
     "autoload": {
