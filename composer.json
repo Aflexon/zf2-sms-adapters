@@ -15,9 +15,9 @@
         "zendframework/zend-http":              "*",
         "zendframework/zend-console":           "*",
         "zendframework/zend-modulemanager":     "*",
-        "doctrine/doctrine-orm-module":         "~2.0",
-        "doctrine/doctrine-module":             "~2.0",
-        "doctrine/cache":                       "~1.0"
+        "doctrine/doctrine-orm-module":         "*",
+        "doctrine/doctrine-module":             "*",
+        "doctrine/cache":                       "*"
     },
     "autoload": {
         "psr-0": {
